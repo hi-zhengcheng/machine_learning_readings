@@ -29,3 +29,8 @@
 
 * [Understanding-LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * How **LSTM** works
+
+
+## Papers
+
+* [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://kelvinxu.github.io/projects/capgen.html)
