@@ -12,10 +12,10 @@
 
 * [neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
   * VERY VERY GOOD READINGS.
-  * Machine Background Knowledges
+  * Machine Learning Background Knowledges
   * Simple code to implement MNIST handwritten digits recognization
   * How **Backpropagation** algorithm works
-  * How to optimize **Hyper parameters** in neural
+  * How to optimize **Hyper parameters** in neural network
 
 
 * [deeplearningbook](http://www.deeplearningbook.org/)
@@ -27,7 +27,7 @@
   * *I have not yet finished reading this book*
 
 
-* [Understanding-LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [Understanding LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * How **LSTM** works
 
 
