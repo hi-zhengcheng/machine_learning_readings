@@ -34,3 +34,4 @@
 ## Papers
 
 * [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://kelvinxu.github.io/projects/capgen.html)
+* [From Captions to Visual Concepts and Back](https://arxiv.org/abs/1411.4952)
